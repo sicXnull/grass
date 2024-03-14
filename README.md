@@ -19,7 +19,7 @@ docker run -d \
     -e GRASS_USER=myuser@mail.com \
     -e GRASS_PASS=mypass \
     -e ALLOW_DEBUG=False \
-    camislav/grass
+    sicnull/grass
 ```
 
 Please replace 8080 with the port you want to be able to access the status with, as well as GRASS_USER and GRASS_PASS
