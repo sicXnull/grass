@@ -186,6 +186,3 @@ app.run(host='0.0.0.0', port=80, debug=False)
 
 # Quit driver after Flask app is terminated
 driver.quit()
-
-app.run(host='0.0.0.0',port=80, debug=False)
-driver.quit()
