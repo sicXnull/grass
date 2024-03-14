@@ -1,6 +1,6 @@
 # Grass
 An unofficial Docker Image for [getgrass.io](https://app.getgrass.io/register/?referralCode=VqlevN7hfQLGGiQ)
-Available on [Docker Hub](https://hub.docker.com/r/camislav/grass)
+Available on [Docker Hub](https://hub.docker.com/r/sicnull/grass)
 
 ## What's Grass?
 Grass allows you to earn passive income by sharing your network bandwidth
