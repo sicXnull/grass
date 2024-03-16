@@ -15,6 +15,7 @@ Grass allows you to earn passive income by sharing your network bandwidth
 ```
 docker run -d \
     --name Grass \
+    --restart always \
     -p 8080:80 \
     -e GRASS_USER=myuser@mail.com \
     -e GRASS_PASS=mypass \
