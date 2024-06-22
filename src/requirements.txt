@@ -1,4 +1,6 @@
 selenium
 webdriver-manager
 requests
-Flask
+gunicorn
+flask
+gevent
