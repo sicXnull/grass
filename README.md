@@ -1,6 +1,6 @@
-# Grass
+# Grass (Standard Node)
 An unofficial Docker Image for [getgrass.io](https://app.getgrass.io/register/?referralCode=VqlevN7hfQLGGiQ)
-Available on [Docker Hub](https://hub.docker.com/r/sicnull/grass)
+Available on [Docker Hub](https://hub.docker.com/r/sicnull/grass-node)
 
 ## What's Grass?
 Grass allows you to earn passive income by sharing your network bandwidth
@@ -20,7 +20,7 @@ docker run -d \
     -e GRASS_USER=myuser@mail.com \
     -e GRASS_PASS=mypass \
     -e ALLOW_DEBUG=False \
-    sicnull/grass
+    sicnull/grass-node
 ```
 
 Please replace 8080 with the port you want to be able to access the status with, as well as GRASS_USER and GRASS_PASS
